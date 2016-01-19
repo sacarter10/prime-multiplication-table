@@ -1,0 +1,22 @@
+{
+  "name": "prime-multiplication-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primes.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sacarter10/prime-multiplication-table"
+  },
+  "author": "sally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacarter10/prime-multiplication-table/issues"
+  },
+  "homepage": "https://github.com/sacarter10/prime-multiplication-table#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
